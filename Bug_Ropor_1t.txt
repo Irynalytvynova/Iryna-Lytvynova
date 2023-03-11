@@ -1,0 +1,37 @@
+ [U1QAN281122-94] "Actions" Placeholder of dropdown list is displayed in the dropdown menu as first option Created: 03/Mar/23  Updated: 04/Mar/23 
+
+Status: To Do
+Project: QA_Nov_28
+
+Component/s:	None 
+Affects Version/s:	None 
+Fix Version/s:	None 
+
+Type: 	Bug 	Priority: 	Low 
+Reporter: 	Iryna Lytvynova 
+Assignee: 	Unassigned 
+Resolution: 	Unresolved 	Votes: 	0 
+Labels: 	None 
+Remaining Estimate:	Not Specified 
+Time Spent:	Not Specified 
+Original Estimate:	Not Specified 
+
+Attachments: 	 dropdown list.JPG     
+
+ Description  	
+ 
+On clicking the dropdown arrow a dropdown menu with options opens. First option of dropdown list is the "Actions" placeholder, but not "Archive" item.
+Expected Results:
+Dropdown menu has the "Actions" placeholder and the list of options:
+•	Archive;
+•	Unpublish;
+•	Publish.
+Actual Results:
+
+Dropdown menu contains options:
+•	Actions;
+•	Archive;
+•	Unpublish;
+•	Publish.
+
+Generated at Sat Mar 11 23:16:01 GMT+02:00 2023 by Iryna Lytvynova using Jira 8.20.9#820009-sha1:3f676e980ac1d5cf6a703f13d6584c8f19f830d3. 2023
